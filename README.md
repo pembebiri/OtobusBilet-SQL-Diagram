@@ -1,1 +1,2 @@
-# OtobusBilet-SQL-Diagram![sql](https://user-images.githubusercontent.com/121049907/230918424-b80a004d-57cb-4286-b473-391ba20ece30.png)
+# OtobusBilet-SQL-Diagram![sql]
+![OtobusBilet](https://github.com/zeraa123/OtobusBilet-SQL-Diagram/assets/121049907/3fda09b0-c26c-4883-afa2-4e4480493f20)
